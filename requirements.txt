@@ -1,0 +1,5 @@
+streamlit>=1.36
+requests
+pandas
+# NEW in v1.2.0 — required for direct PDF download of drafts
+reportlab>=4.0
